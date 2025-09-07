@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void solve() {
+void samin_solve() {
     int n;
     cin >> n;
     vector<int> a(n);
@@ -42,7 +42,7 @@ int main() {
     int t;
     cin >> t;
     while (t--) {
-        solve();
+        samin_solve();
     }
     
     return 0;
